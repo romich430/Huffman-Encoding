@@ -1,0 +1,8 @@
+﻿{
+    "name": "SimpleFileBrowser.Runtime",
+    "references": [
+        "Unity.InputSystem",
+        "UnityEditor.UI",
+        "UnityEngine.UI"
+    ]
+}
